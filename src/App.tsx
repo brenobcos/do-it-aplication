@@ -1,8 +1,13 @@
-import React from 'react';
+import { BrowserRouter } from 'react-router-dom';
+import { AppProvider } from './contexts';
 import { Routes } from './routes';
 
-export const App = () => {
-  return(
-    <Routes/>
-  )
-}
+const App = () => (
+  <BrowserRouter>
+    <AppProvider>
+      <Routes />
+    </AppProvider>
+  </BrowserRouter>
+);
+
+export default App;
