@@ -4,7 +4,7 @@
 <br>
 
 <h1 align="center">
-    <img alt="do-it" title="do-it-app" src="" />
+    <img alt="do-it" title="do-it-app" src="https://user-images.githubusercontent.com/83380946/161190330-2d62e7b2-1ff2-4f09-b379-89b359ea0ebe.gif" />
 </h1>
 
 ## 🧪 Tecnologias
