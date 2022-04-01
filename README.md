@@ -25,7 +25,7 @@ Clone o projeto e acesse a pasta.
 
 ```bash
 $ git clone git@github.com:brenobcos/do-it-aplication.git
-$ cd cd do-it-aplication
+$ cd do-it-aplication
 ```
 
 Siga os passos abaixo:
