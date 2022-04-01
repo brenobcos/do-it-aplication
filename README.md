@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Do-it logo" src="" width="100px" />
+  <img alt="Do-it logo" src="https://i.ibb.co/B4yz73K/logo-primary.png" width="100px" />
 </h1>
 <br>
 
